@@ -26,8 +26,3 @@ Open the Jupyter Notebooks in Google Colab or Jupyter Lab
 
 Run the code and explore the insights!
 
-✅ 2. Add Your GitHub Link to LinkedIn
-
-Go to LinkedIn > Contact Info > Add Website
-
-Paste your GitHub profile link (https://github.com/TheRidhaminani)
