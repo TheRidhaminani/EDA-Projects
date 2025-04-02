@@ -21,10 +21,6 @@ Data Cleaning & Visualization
 
 📌 How to Use
 Clone the repo:
-
-bash
-Copy
-Edit
 git clone https://github.com/TheRidhaminani/EDA-Projects.git
 Open the Jupyter Notebooks in Google Colab or Jupyter Lab
 
